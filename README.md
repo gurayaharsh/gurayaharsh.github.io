@@ -1,6 +1,6 @@
 ## About
 
-My personal website can be found at [link](http://gurayaharsh.github.io "gurayaharsh.github.io"). Here you can learn more about me, view my projects, and get in touch. 
+My personal website can be found at [](http://gurayaharsh.github.io "View Project"). Here you can learn more about me, view my projects, and get in touch. 
 
 ## Technology 
 
